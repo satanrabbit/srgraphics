@@ -1,0 +1,23 @@
+{
+  "family": "satanrabbit",
+  "name": "srgraphics",
+  "version": "1.0.0",
+  "description": "satanrabbit 画图工具",
+  "homepage": "https://github.com/satanrabbit/srgraphics",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/satanrabbit/srgraphics.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["srgraphics.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
